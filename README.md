@@ -1,4 +1,4 @@
-# Sign-Up-Page
+# HTML-Flask-Website
 Saving user credentials with HTML front end and Python/Flask backend
 
 # Video Demo
