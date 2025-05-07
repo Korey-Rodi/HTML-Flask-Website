@@ -5,10 +5,5 @@ app = Flask(__name__)
 def Welcome():
     return render_template("index.html")
 
-@app.route("/SignUpPage")
-def SignUp():
-    return render_template("SignUpPage.html")
-
-
 if __name__ == "__main__":
     app.run(debug=True)
