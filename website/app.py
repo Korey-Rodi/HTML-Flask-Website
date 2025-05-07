@@ -2,10 +2,12 @@ from flask import Flask, render_template, request, redirect, url_for
 app = Flask(__name__)
 
 @app.route("/")
-def weclome():
-    return render_template("WelcomePage.html")
+def Welcome():
+    return render_template("index.html")
 
-
+@app.route("/SignUpPage")
+def SignUp():
+    return render_template("SignUpPage.html")
 
 
 if __name__ == "__main__":
