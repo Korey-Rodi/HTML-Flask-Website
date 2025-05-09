@@ -10,16 +10,18 @@ def SignUp():
     if request.method == "POST":
         username = request.form.get("username")
         password = request.form.get("password")
-
-        data = open("UserLog.txt", "w")
-        data.write("username: " + username + "password: " + password)
+        print(username)
+        print(password)
+        data = open("/Users/koreyrodi/Documents/GitHub/HTML-Flask-Website/website/UserLog.txt", "a")
+        data.write("username: " + username + " password: " + password + "\n")
+        data.close()
         return redirect(url_for("ThankYou"))
     
     return render_template('SignUpPage.html')
 
-@app.route("/thankyou")
+@app.route('/thankyou')
 def ThankYou():
-    return render_template("ThankYouPage.html")
+    return render_template('ThankYouPage.html')
 
 if __name__ == "__main__":
     app.run(debug=True)
