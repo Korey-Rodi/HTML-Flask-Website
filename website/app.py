@@ -10,8 +10,6 @@ def SignUp():
     if request.method == "POST":
         username = request.form.get("username")
         password = request.form.get("password")
-        print(username)
-        print(password)
         data = open("/Users/koreyrodi/Documents/GitHub/HTML-Flask-Website/website/UserLog.txt", "a")
         data.write("username: " + username + " password: " + password + "\n")
         data.close()
