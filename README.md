@@ -13,6 +13,6 @@ I made this project for the purpose of experimenting further with HTMl as it is 
 In the next versions I want to add some key features for the frontend and backend. On the front end I want to add CSS to make the websites pages look more appealing. On the backend I would like to experiment with hashing passwords and databases such as sql.
 
 # Resources
-https://flask.palletsprojects.com/en/stable/
-https://www.youtube.com/watch?v=5aYpkLfkgRE&list=LL&index=5
-https://www.youtube.com/watch?v=Z1RJmh_OqeA&t=1132s
+* https://flask.palletsprojects.com/en/stable/
+* https://www.youtube.com/watch?v=5aYpkLfkgRE&list=LL&index=5
+* https://www.youtube.com/watch?v=Z1RJmh_OqeA&t=1132s
