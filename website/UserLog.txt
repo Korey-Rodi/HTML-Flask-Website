@@ -2,3 +2,5 @@ username: testUser1 password: passwordforwebsite
 username: testUser2 password: thisisapassword
 username: koreyrodi13 password: FlaskWebsiteIsWorking
 username: testUser12 password: flaskwebsitepassword
+username: testuser13 password: helloviewer
+username: testuser76 password: thisisthepasswordforuser76
