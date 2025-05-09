@@ -6,6 +6,7 @@ Saving user credentials with HTML front end and Python/Flask backend (version 1)
 <img width="1440" alt="ThankYouPage" src="https://github.com/user-attachments/assets/d319e458-2273-413a-bb46-b94386d6dd35" />
 
 # Video Demo
+https://www.youtube.com/watch?v=fMSSC0QN_Xo
 
 # What is it?
 This is a simple website that contains a welcome page, sign up page, and a thank you page. On the welcome page there is a href link that lets the user click onto the sign up page. Once at the sign up page the user can enter their username and password (these credentials are not hashed and should not be anything real as they are just stored in a txt file). After the information is entered the user can press sign up and are then taken to the thank you page. On the thank you page the user may return to the welcome page or shut down the website.
