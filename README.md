@@ -1,7 +1,7 @@
 # HTML-Flask-Website
 Saving user credentials with HTML front end and Python/Flask backend (version 1)
 
-<img width="1440" alt="WelcomePage" src="https://github.com/user-attachments/assets/499b1247-5cf0-4204-9c7f-043b1d1fb4c9" />
+<img width="1440" alt="WelcomePage" src="https://github.com/user-attachments/assets/466c5670-7a77-4ce5-b28c-454c2b366d2f" />
 <img width="1440" alt="SignUpPage" src="https://github.com/user-attachments/assets/302748db-afbb-4fe7-8ea6-9ed568d5531c" />
 <img width="1440" alt="ThankYouPage" src="https://github.com/user-attachments/assets/d319e458-2273-413a-bb46-b94386d6dd35" />
 
